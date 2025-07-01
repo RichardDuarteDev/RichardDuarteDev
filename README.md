@@ -4,4 +4,5 @@
 - 📚 Estudando boas práticas de arquitetura, integração front-end/back-end e banco de dados com Entity Framework  SQL Server
 - 🤝 Aberto a oportunidades de colaboração em projetos web, APIs e sistemas com foco em produtividade e performance  
 - 📫 Contato: richardc.duarte@hotmail.com
+- 🌐 Meu site: [richardduartedev.github.io/Profile](https://richardduartedev.github.io/Profile)
 - ⚡ Curiosidade: gosto de transformar ideias simples em soluções funcionais e bem estruturadas
