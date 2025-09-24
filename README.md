@@ -1,5 +1,5 @@
 - 👋 Olá, sou Richard Duarte 
-- 👨‍💻 Desenvolvedor focado em aplicações web com .NET Core.  
+- 👨‍💻 Analista de Sistemas focado em Programação, Linux, Infraestrutura e Redes.  
 - 🚀 Em constante evolução, com experiência no desenvolvimento de APIs RESTful com ASP.NET Core e consumo via HTML/CSS/JS  
 - 📚 Estudando boas práticas de arquitetura, integração front-end/back-end e banco de dados com Entity Framework  SQL Server
 - 🤝 Aberto a oportunidades de colaboração em projetos web, APIs e sistemas com foco em produtividade e performance  
